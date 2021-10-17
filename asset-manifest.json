@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/abdurrahimyilmaz/learn-react-on-nft/static/css/main.1624d435.chunk.css",
+    "main.js": "/abdurrahimyilmaz/learn-react-on-nft/static/js/main.7204ecea.chunk.js",
+    "main.js.map": "/abdurrahimyilmaz/learn-react-on-nft/static/js/main.7204ecea.chunk.js.map",
+    "runtime-main.js": "/abdurrahimyilmaz/learn-react-on-nft/static/js/runtime-main.57921355.js",
+    "runtime-main.js.map": "/abdurrahimyilmaz/learn-react-on-nft/static/js/runtime-main.57921355.js.map",
+    "static/js/2.27cc1073.chunk.js": "/abdurrahimyilmaz/learn-react-on-nft/static/js/2.27cc1073.chunk.js",
+    "static/js/2.27cc1073.chunk.js.map": "/abdurrahimyilmaz/learn-react-on-nft/static/js/2.27cc1073.chunk.js.map",
+    "index.html": "/abdurrahimyilmaz/learn-react-on-nft/index.html",
+    "static/css/main.1624d435.chunk.css.map": "/abdurrahimyilmaz/learn-react-on-nft/static/css/main.1624d435.chunk.css.map",
+    "static/js/2.27cc1073.chunk.js.LICENSE.txt": "/abdurrahimyilmaz/learn-react-on-nft/static/js/2.27cc1073.chunk.js.LICENSE.txt",
+    "static/media/video.8de3b1a8.mp4": "/abdurrahimyilmaz/learn-react-on-nft/static/media/video.8de3b1a8.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57921355.js",
+    "static/js/2.27cc1073.chunk.js",
+    "static/css/main.1624d435.chunk.css",
+    "static/js/main.7204ecea.chunk.js"
+  ]
+}
