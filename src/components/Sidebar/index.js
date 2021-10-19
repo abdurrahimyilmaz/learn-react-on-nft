@@ -17,16 +17,10 @@ const Sidebar = ({ isOpen, toggle }) => {
                     </SidebarLink>
                     <SidebarLink to="specs" onClick={toggle}>
                         Specs 
-                    </SidebarLink>
-                    <SidebarLink to="faq" onClick={toggle}>
-                        FAQ 
-                    </SidebarLink>    
-                    <SidebarLink to="signup" onClick={toggle}>
-                        Sign Up 
-                    </SidebarLink>                
+                    </SidebarLink>                                  
                 </SidebarMenu>
                 <SideBtnWrap>
-                    <SidebarRoute to="/signin">Sign In</SidebarRoute>
+                    <SidebarRoute to="/mint">Minting Page</SidebarRoute>
                 </SideBtnWrap>
             </SidebarWrapper>      
         </SidebarContainer>
